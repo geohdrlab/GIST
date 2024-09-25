@@ -1,4 +1,4 @@
 # GIST
 Campus_Project
 
-All the three groups will submit there course work here
+All three groups will submit their course work here.
